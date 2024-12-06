@@ -1,5 +1,6 @@
 # ENV VARIABLES
 REACT_APP_API_KEY=
+
 REACT_APP_TOKEN=
 
 # Getting Started with Create React App
